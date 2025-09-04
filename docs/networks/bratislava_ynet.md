@@ -15,7 +15,7 @@ Member fees             | **Fee (EUR)**                                         
                         | 26.80 €                                                                                   | 5 months (incl. 1 bonus month)
                         | 46.90 €                                                                                   | 10 months (incl. 3 bonus months)
                         | **Maintenance mode** during July, August - Free                                           | 
-E-Mail                  | info@ynet.sk                                                                              | 
+E-Mail                  | <info@ynet.sk>                                                                            | 
 Year of foundation      | 2000                                                                                       
 
 ## About Ynet

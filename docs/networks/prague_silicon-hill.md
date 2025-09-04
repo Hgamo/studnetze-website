@@ -18,8 +18,8 @@ Member fees                 | **Membership**                                    
                             | Music studio                                                   |  1000 / semester
                             | Dancing course - single                                        |  400 / course
                             | Dancing course - pair                                          |  800 / course
-E-Mail                      | admin@siliconhill.cz,<snt18@siliconhill.cz>                    |                       
-Year of foundation          | 1998                                                           |  
+E-Mail                      | <admin@siliconhill.cz>, <snt18@siliconhill.cz>                   |
+Year of foundation          | 1998                                                           |
 
 ## About Silicon Hill
 

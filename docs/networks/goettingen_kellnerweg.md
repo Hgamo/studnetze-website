@@ -10,5 +10,5 @@ Studenten im Wohnheim  | 327
 Mitarbeiter            | 4
 Technik                | FIXME
 Beitrag pro Monat      | 5 € an das Studentenwerk, davon etwa 90 cent für uns
-E-Mail                 | netzwerk@kellnerweg.de
+E-Mail                 | <netzwerk@kellnerweg.de>
 Gründungsjahr          | -∞

@@ -10,5 +10,5 @@ Studenten im Wohnheim  | FIXME
 Mitarbeiter            | 3
 Technik                | HP/Aruba und Cisco Small Business (Switche, Router), Aruba & Ubiquiti (WLAN), Proxmox & ZFS (Server/Services), Juniper (core)
 Beitrag pro Monat      | In der Miete inbegriffen (ca. FIXME €/pro Mieter)
-E-Mail                 | netzwerk@wh-ka.de
+E-Mail                 | <netzwerk@wh-ka.de>
 Gründungsjahr          | 19\*\* FIXME
