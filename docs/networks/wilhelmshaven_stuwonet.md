@@ -1,7 +1,5 @@
 # Wilhelmshaven, StuWo Net
 
-![:stuwonet:stuwonet.gif](stuwonet/stuwonet.gif)
-
 Hochschule             | FH OOW
 -----------------------|-------------------------------------------------------------------
 Hochschulort           | Wilhelmshaven

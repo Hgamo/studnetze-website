@@ -29,8 +29,6 @@ Gründungsjahr          | 1996
 Das Netzwerk im HaDiKo ist als Stern ausgelegt, mit dem Core-Router im
 Gebäude K3 als Zentrum.
 
-![](/studnetze/hadiko-hadinet-netzplan-2022.png){width="800"}
-
 Seit 2021 laufen Arbeiten zur Erneuerung der Infrastruktur, bei denen
 die alten HP Procurve-Switches durch neue Aruba CX-Switches ersetzt
 werden. In dem Zuge werden auch die Glasfaser-Leitungen zwischen den

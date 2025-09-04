@@ -1,7 +1,5 @@
 # Oldenburg, PMNET
 
-![:pmnet:pferdemarkt.png](pmnet/pferdemarkt.png)
-
 Hochschule             | Carl von Ossietzky Universität / FH Oldenburg
 -----------------------|-------------------------------------------------------------------------------------------------------------------------------------
 Hochschulort           | Oldenburg

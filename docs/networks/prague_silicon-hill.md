@@ -2,9 +2,7 @@
 
 ## Quick Info
 
-![](/studnetze/sh/sh/sh-logo-col.png)
-
-University                  | [Czech Technical University in Prague](https://www.cvut.cz/en) | .
+University                  | [Czech Technical University in Prague](https://www.cvut.cz/en) | <!-- -->
 ----------------------------|----------------------------------------------------------------|-----------------
 Location of university      | Prague                                                         |  
 Website                     | <https://www.siliconhill.cz>                                   |  

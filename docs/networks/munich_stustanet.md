@@ -1,7 +1,5 @@
 # Munich, StuStaNet
 
-![](/studnetze/stustanet_logo.png)
-
 Hochschulen            | Alle Hochschulen und Universitäten in München
 -----------------------|---------------------------------------------------------------
 Hochschulort           | München

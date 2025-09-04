@@ -1,7 +1,5 @@
 # Heilbronn, StuWoNet
 
-![:swn:logo.jpg](swn/logo.jpg)
-
 Hochschule             | Fachhochschule Heilbronn
 -----------------------|---------------------------------------------------------------------------------------------------------------
 Hochschulort           | Heilbronn, BaWue
