@@ -4,7 +4,7 @@ Hochschule                   | Friedrich-Alexander-Universität Erlangen-Nürnbe
 -----------------------------| -------------------------------------------------------------------------
 Hochschulort                 | Erlangen
 Website                      | <https://rommelwood.de>
-Nutzer                       | \~750
+Nutzer                       | ~750
 Studenten im Wohnheim        | 750
 Mitarbeiter                  | 20
 Technik                      | Switches: HP 6600-24XG, 11x HP Procurve 2910al, 14x Aruba Procurve 2920

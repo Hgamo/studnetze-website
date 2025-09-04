@@ -8,7 +8,7 @@ University              | [Slovak University of Technology in Bratislava (STU)](
 ------------------------|-------------------------------------------------------------------------------------------|-----------------------------------
 Location of university  | Bratislava                                                                                | 
 Website                 | <https://ynet.sk/>                                                                        | 
-Members                 | \~ 3500                                                                                   | 
+Members                 | ~ 3500                                                                                    |
 Member fees             | **Fee (EUR)**                                                                             | **Description**
                         | 10 € (one-time)                                                                           | Entry fee
                         | 6.70 €                                                                                    | 1 month
