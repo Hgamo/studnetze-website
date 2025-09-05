@@ -1,7 +1,5 @@
 # Chemnitzer StudentenNetz
 
-![:csn:csn.gif](csn/csn.gif)
-
 Hochschule             | TU Chemnitz
 -----------------------|-------------------------------------------------------------
 Hochschulort           | Chemnitz

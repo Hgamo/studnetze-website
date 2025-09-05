@@ -1,7 +1,5 @@
 # Mittweidaer CampusNet
 
-![:mcn:mcnlogo_klein.jpg](mcn/mcnlogo_klein.jpg)
-
 Hochschule             | Hochschule Mittweida
 -----------------------|-----------------------------------------------------------------------------------
 Hochschulort           | Mittweida

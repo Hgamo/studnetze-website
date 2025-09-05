@@ -1,7 +1,5 @@
 # Hamburg, Studierendenwerk
 
-![:sybuca:logo.gif](sybuca/logo.gif)
-
 Hochschule             | verschiedene Hochschulen in Hamburg
 -----------------------|--------------------------------------------------------------------------------------------------------------------------------------
 Hochschulort           | Hamburg

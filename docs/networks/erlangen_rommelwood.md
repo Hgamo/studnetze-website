@@ -4,7 +4,7 @@ Hochschule                   | Friedrich-Alexander-Universität Erlangen-Nürnbe
 -----------------------------| -------------------------------------------------------------------------
 Hochschulort                 | Erlangen
 Website                      | <https://rommelwood.de>
-Nutzer                       | \~750
+Nutzer                       | ~750
 Studenten im Wohnheim        | 750
 Mitarbeiter                  | 20
 Technik                      | Switches: HP 6600-24XG, 11x HP Procurve 2910al, 14x Aruba Procurve 2920
@@ -13,6 +13,6 @@ Technik                      | Switches: HP 6600-24XG, 11x HP Procurve 2910al, 1
                              | Virtualisierung: teilweise Docker
                              | Uplink: 1GbE ans RRZE/DFN
 Beitrag pro Jahr             | 30€
-E-Mail                       | noc blaht rommelwood.de
+E-Mail                       | <noc@rommelwood.de>
 Gründungsjahr (Netz)         | 1998
 Zentrale WLAN Infrastruktur  | Nein

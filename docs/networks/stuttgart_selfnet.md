@@ -15,7 +15,7 @@ Technology (software)                             | mostly Debian and AlmaLinux,
 Technology (uplink)                               | 2x 20GBit/s to the internet (via BelWue/AS553)
 Technology (internal network)                     | Each dormitory building is connected with 10-20 GBit/s singlemode optical fiber. Switche: Juniper EX4100, EX4400, EX4600 and Huawei S5732 v2 (48-port), WLAN: Huawei (\~1500 APs, 2 ACs)
 Membership fee                                    | 9,5 €/month
-E-Mail                                            | [support@selfnet.de](/mailto/support@selfnet.de)
+E-Mail                                            | <support@selfnet.de>
 Year of foundation                                | 1999
 
 ## About Selfnet

@@ -8,7 +8,7 @@ Social Media             | [Facebook](https://www.facebook.com/PCKlub/), [Linked
 Organization members     | ~40-50
 Students/Clients         | ~4900
 Membership Fee           | 27,00€/Semester
-E-mail                   | [root@pcklub.sk](/mailto/root@pcklub.sk)
+E-mail                   | <root@pcklub.sk>
 Founding year            | 1997
 
 ## About PCKlub

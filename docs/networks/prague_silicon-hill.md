@@ -2,15 +2,13 @@
 
 ## Quick Info
 
-![](/studnetze/sh/sh/sh-logo-col.png)
-
-University                  | [Czech Technical University in Prague](https://www.cvut.cz/en) | .
+University                  | [Czech Technical University in Prague](https://www.cvut.cz/en) | <!-- -->
 ----------------------------|----------------------------------------------------------------|-----------------
-Location of university      | Prague                                                         |  
-Website                     | <https://www.siliconhill.cz>                                   |  
-Members                     | \~ 3500                                                        |  
-Members in residental home  | \~20-50+                                                       |  
-Staff members               | \~ 200                                                         |  
+Location of university      | Prague                                                         |
+Website                     | <https://www.siliconhill.cz>                                   |
+Members                     | ~ 3500                                                         |
+Members in residental home  | ~20-50+                                                        |
+Staff members               | ~ 200                                                          |
 Technologies                | Cisco Catalyst 2960S/X, 9200L/9300L, 9500H, Nexus 9k, ASR1k, 9800-CL + WiFi 6 and 6E APs, Aruba MC7210 + WiFi5 W1+W2 APs, Palo Alto PA-5k, F5 Viprion, Dell PowerEdge 12-14G, HPE ProLiant Gen8-9, Pure Storage FlashArray//X |
 Member fees                 | **Membership**                                                 |  **Fee (CZK)**
                             | Basic                                                          |  200 / semester
@@ -20,8 +18,8 @@ Member fees                 | **Membership**                                    
                             | Music studio                                                   |  1000 / semester
                             | Dancing course - single                                        |  400 / course
                             | Dancing course - pair                                          |  800 / course
-E-Mail                      | admin@siliconhill.cz,<snt18@siliconhill.cz>                    |                       
-Year of foundation          | 1998                                                           |  
+E-Mail                      | <admin@siliconhill.cz>, <snt18@siliconhill.cz>                   |
+Year of foundation          | 1998                                                           |
 
 ## About Silicon Hill
 

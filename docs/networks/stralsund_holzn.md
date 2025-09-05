@@ -1,7 +1,5 @@
 # Stralsund, Holzhausen-Network
 
-![:holzn:hhnet.gif](holzn/hhnet.gif)
-
 Hochschule             | Fachhochschule Stralsund
 -----------------------|----------------------------------------------------------
 Hochschulort           | Stralsund

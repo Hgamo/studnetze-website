@@ -1,7 +1,5 @@
 # Osnabrück, HEHOS-Net
 
-![:hehos:logo1.jpg](hehos/logo1.jpg)
-
 Hochschule             | Universität/Fachhochschule Osnabrück
 -----------------------|---------------------------------------------------------------------------------------
 Hochschulort           | Osnabrück

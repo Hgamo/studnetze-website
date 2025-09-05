@@ -1,7 +1,5 @@
 # Freiberg, Studentennetz
 
-![Logo StuNet Freiberg](/studnetze/sfg/stunet_freiberg_logo.png)
-
 Hochschule     | TU Bergakademie Freiberg
 ---------------|----------------------------------------------------------------
 Hochschulort   | Freiberg <https://tu-freiberg.de>

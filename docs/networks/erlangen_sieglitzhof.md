@@ -13,7 +13,7 @@ Technik                | Switches: HP-ProCurve 5406zl, 3800, 2920
                        | Uplink: 1Gbit/s-LWL symmetrisch, unmetered, Carrier Core-Backbone GmbH
                        | Open-source software, Eigenentwicklungen, Waschsystem mit Anbindung an Miele-Waschmaschinen
 Beitrag pro Jahr       | 14€/Monat
-E-Mail                 | admins@sieglitzhof.net
+E-Mail                 | <admins@sieglitzhof.net>
 Gründungsjahr (Netz)   | 2000 irgendwas ;)
 
 

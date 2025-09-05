@@ -1,7 +1,5 @@
 # Munich, StuStaNet
 
-![](/studnetze/stustanet_logo.png)
-
 Hochschulen            | Alle Hochschulen und Universitäten in München
 -----------------------|---------------------------------------------------------------
 Hochschulort           | München
@@ -16,7 +14,7 @@ Technik                | Server: Supermicro (alle neueren) und diverse andere (�
                        | OS: Debian, Gentoo
                        | Anbindung: 4 GBit/s zum Rechenzentrum (LRZ) / DFN
 Beitrag                | 20€ Einmalig
-E-Mail                 | [vorstand@stustanet.de](/mailto/vorstand@stustanet.de)
+E-Mail                 | <vorstand@stustanet.de>
 Gründungsjahr          | 1998
 
 Der StuStaNet e. V. wurde 1998 mit dem Zweck gegründet \"ein Rechnernetz

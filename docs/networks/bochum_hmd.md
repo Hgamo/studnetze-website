@@ -1,8 +1,6 @@
 # Bochum, Haus Michael auf Draht
 Haus Michael auf Draht - Initiativkreis zur Vernetzung des Studierendenwohnheims Haus Michael und Umgebung e.V.
 
-![:hmd:mad-2.gif](hmd/mad-2.gif)
-
 University              | Ruhr-Universität Bochum
 ------------------------|--------------------------------------
 Location                | Bochum, Germany
